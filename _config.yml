@@ -27,8 +27,8 @@ name : gh-pages-blog
 brand : gh-pages-blog
 description : The Official gh-pages-blog GitHub Page
 url : https://thedereck.github.io/gh-pages-blog
-email : thedereck@thedereck.com
-author: Dereck Curry
+email : peterasujan@gmail.com
+author: Peter Sujan
 
 
 # The following is a list of files to exclude from inclusion in the
@@ -278,39 +278,39 @@ navbar :
 #       name : Twitter
 #       font_awesome_icon : icon-twitter
 #       url : https://www.twitter.com/dereckcurry
-social_links :
-  follow_name : Me
-  links :
-    - link :
-      enabled : true
-      name : Facebook
-      font_awesome_icon : icon-facebook
-      url : https://www.facebook.com/
-    - link :
-      enabled : true
-      name : GitHub
-      font_awesome_icon : icon-github-alt
-      url : https://github.com/
-    - link :
-      enabled : true
-      name: Google+
-      font_awesome_icon : icon-google-plus
-      url : https://plus.google.com/
-    - link :
-      enabled : true
-      name : Linkedin
-      font_awesome_icon : icon-linkedin
-      url : http://www.linkedin.com/
-    - link :
-      enabled : true
-      font_awesome_icon : icon-pinterest
-      name : Pinterest
-      url : http://www.pinterest.com
-    - link :
-      enabled : true
-      name : Twitter
-      font_awesome_icon : icon-twitter
-      url : https://www.twitter.com/
+# social_links :
+#   follow_name : Me
+#   links :
+#     - link :
+#       enabled : true
+#       name : Facebook
+#       font_awesome_icon : icon-facebook
+#       url : https://www.facebook.com/
+#     - link :
+#       enabled : true
+#       name : GitHub
+#       font_awesome_icon : icon-github-alt
+#       url : https://github.com/
+#     - link :
+#       enabled : true
+#       name: Google+
+#       font_awesome_icon : icon-google-plus
+#       url : https://plus.google.com/
+#     - link :
+#       enabled : true
+#       name : Linkedin
+#       font_awesome_icon : icon-linkedin
+#       url : http://www.linkedin.com/
+#     - link :
+#       enabled : true
+#       font_awesome_icon : icon-pinterest
+#       name : Pinterest
+#       url : http://www.pinterest.com
+#     - link :
+#       enabled : true
+#       name : Twitter
+#       font_awesome_icon : icon-twitter
+#       url : https://www.twitter.com/
 
 
 # These are a list of GitHub projects that the blog owner would like to
@@ -333,12 +333,12 @@ social_links :
 #   - project :
 #     name : gh-pages-blog
 #     url : https://github.com/thedereck/gh-pages-blog
-github_projects :
-  header : GitHub Projects
-  projects :
-  - project :
-    name : gh-pages-blog
-    url : https://github.com/thedereck/gh-pages-blog
+# github_projects :
+#   header : GitHub Projects
+#   projects :
+#   - project :
+#     name : gh-pages-blog
+#     url : https://github.com/thedereck/gh-pages-blog
 
 
 # These are links to other websites outside of the blog that are not part of
@@ -363,12 +363,12 @@ github_projects :
 #     - link :
 #       name : Lowcountry Blues Club
 #       url : http://lowcountrybluesclub.blogspot.com
-external_links :
-  header : More Great gh-pages-blog Sites
-  links :
-    - link :
-      name : The Dereck
-      url: https://thedereck.github.io
+# external_links :
+#   header : More Great gh-pages-blog Sites
+#   links :
+#     - link :
+#       name : The Dereck
+#       url: https://thedereck.github.io
 
 
 # These are the Bootstrap settings. These Bootstrap settings will control both
@@ -570,8 +570,8 @@ disqus :
 #   google_analytics :
 #     enabled : true
 #     tracking_id : UA-1234567
-analytics :
-  enabled : false
-  google_analytics :
-    enabled : false
-    tracking_id : UA-1234567
+# analytics :
+#   enabled : false
+#   google_analytics :
+#     enabled : false
+#     tracking_id : UA-1234567
